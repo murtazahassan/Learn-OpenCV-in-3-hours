@@ -17,8 +17,8 @@
 
 |Index|Topic|Image|Video|Description|
 |:----:|:----:|:----:|:----:|:----:|
-|1|Introduction to Images| <img src="https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/Tumbnails/Introduction.gif" width="600" height="100" />  |[Watch Now](https://youtu.be/WQeoO7MI0Bs?t=137)     | Basic concept of Images. The RGB Channels and Gray Scale Images.  </br> |
-|2|Installations| <img src="https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/Tumbnails/Installations.gif" width="600" height="100" />  |[Watch Now](https://youtu.be/WQeoO7MI0Bs?t=277)     | Installation process of Pyhton, OpenCV and the Pycharm IDE  </br> |
+|1|Introduction to Images| <img src="https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/Tumbnails/Introduction.gif" width="300" height="200" />  |[Watch Now](https://youtu.be/WQeoO7MI0Bs?t=137)     | Basic concept of Images. The RGB Channels and Gray Scale Images.  </br> |
+|2|Installations| <img src="https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/Tumbnails/Installations.gif" width="300" height="200" />  |[Watch Now](https://youtu.be/WQeoO7MI0Bs?t=277)     | Installation process of Pyhton, OpenCV and the Pycharm IDE  </br> |
 
 
 
