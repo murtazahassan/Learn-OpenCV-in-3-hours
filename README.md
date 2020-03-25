@@ -17,9 +17,8 @@
 
 |Index|Topic|Image|Video|Description|
 |:----:|:----:|:----:|:----:|:----:|
-|1|[Course Structure](https://github.com/murtazahassan/Tello-Object-Tracking)| <img src="https://github.com/murtazahassan/Tello-Object-Tracking/blob/master/Programming%20Drone.jpg" width="600" height="100" />  |[Watch Now](https://youtu.be/vDOkUHNdmKs)     | In this video we will learn how to program a drone to move around using python. We will also learn how to get the camera feed from this drone and run OpenCV functions on it . As an example we will detect an object and make the drone follow it around. </br> |
-|2| [Introduction to Images](https://github.com/murtazahassan/Robot-Arm-Gesture-Control)| <img src="https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/Tumbnails/project1.gif" width="600" height="100" />  |[Watch Now](https://youtu.be/gmz7eOB-tCg)     | Detecting Color and using colored marker to draw virtually. </br> |
-|3| [Installations](https://github.com/murtazahassan/Curved-Lane-Detection/tree/master)| <img src="https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/Tumbnails/project2.gif" width="600" height="100" />  |[Watch Now](https://youtu.be/-RuWTwDlot8)     | In this video we are going to learn how to detect curved lanes. We will detect not only the lanes but how much curvature is present in them so that we can use it in self driving applications. </br> |
+|1|Introduction to Images| <img src="https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/Tumbnails/Introduction.gif" width="600" height="100" />  |[Watch Now](https://youtu.be/WQeoO7MI0Bs?t=137)     | Basic concept of Images. The RGB Channels and Gray Scale Images.  </br> |
+|2|Installations| <img src="https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/Tumbnails/Installations.gif" width="600" height="100" />  |[Watch Now](https://youtu.be/WQeoO7MI0Bs?t=277)     | Installation process of Pyhton, OpenCV and the Pycharm IDE  </br> |
 
 
 
