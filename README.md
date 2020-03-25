@@ -49,7 +49,7 @@
 |2| [Documnet Scanner](https://github.com/murtazahassan/Curved-Lane-Detection/tree/master)| <img src="https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/Tumbnails/project2.gif" width="600" height="100" />  |[Watch Now](https://youtu.be/WQeoO7MI0Bs?t=8145)     | In this video we are going to learn how to detect curved lanes. We will detect not only the lanes but how much curvature is present in them so that we can use it in self driving applications. </br> |
 |3|[Number Plate Detector](https://github.com/murtazahassan/Tello-Object-Tracking)| <img src="https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/Tumbnails/project3.gif" width="600" height="100" />  |[Watch Now](https://youtu.be/WQeoO7MI0Bs?t=10594)     | In this video we will learn how to program a drone to move around using python. We will also learn how to get the camera feed from this drone and run OpenCV functions on it . As an example we will detect an object and make the drone follow it around. </br> |
 
-
+https://www.python.org/downloads/release/python-376/
 
 # Notes
 </br>
@@ -57,3 +57,4 @@
 |Index|Comment|
 |:---|:---|
 |1.|[Recommended IDE: PyCharm Community edition](https://www.jetbrains.com/pycharm/download/)|
+|2.|[Python: 3.7.6](https://www.python.org/downloads/release/python-376/)|
