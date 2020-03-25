@@ -1,4 +1,4 @@
-# Learn OpenCV in 3 hours
+# LEARN OPENCV IN 3 HOURS USING PYTHON - INCLUDING EXAMPLE PROJECTS
 [![Watch Video](https://github.com/murtazahassan/Learn-OpenCV-in-3-hours/blob/master/Resources/Thumbnail.jpg)](https://youtu.be/vDOkUHNdmKs)
 
 
