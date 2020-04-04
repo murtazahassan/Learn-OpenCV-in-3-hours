@@ -70,7 +70,10 @@ while True:
 
     imgStack = stackImages(0.6,([img,imgHSV],[mask,imgResult]))
     cv2.imshow("Stacked Images", imgStack)
-
+    
     cv2.waitKey(1)
+    #if running on MacOs cv2.waitKey(1) can be completely unresponsive, replace with:
+    #cv2.waitKey(1000)
+    
 
 
